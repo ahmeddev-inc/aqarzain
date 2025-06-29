@@ -1,0 +1,5 @@
+{
+    "system_name": "aqarzain",
+    "version": "1.0.0",
+    "default_apps": ["realestate", "users", "orders"]
+}
